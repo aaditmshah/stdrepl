@@ -1,18 +1,18 @@
 {
     "name": "stdrepl",
     "description": "An standard REPL for node.js to enable programmers to create interactive user interfaces.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": ["stdrepl", "standard", "repl", "read", "eval", "print", "loop", "interactive"],
-    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@myopera.com>",
+    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
     "main": "lib/stdrepl.js",
     "maintainers": [{
         "name": "Aadit M Shah",
-        "email": "aaditmshah@myopera.com",
+        "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
     "contributors": [{
         "name": "Aadit M Shah",
-        "email": "aaditmshah@myopera.com",
+        "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
     "bugs": "https://github.com/aaditmshah/stdrepl/issues",
