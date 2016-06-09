@@ -1,28 +1,48 @@
 {
-    "name": "stdrepl",
-    "description": "An standard REPL for node.js to enable programmers to create interactive user interfaces.",
-    "version": "1.0.1",
-    "keywords": ["stdrepl", "standard", "repl", "read", "eval", "print", "loop", "interactive"],
-    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
-    "main": "lib/stdrepl.js",
-    "maintainers": [{
-        "name": "Aadit M Shah",
-        "email": "aaditmshah@fastmail.fm",
-        "web": "http://aaditmshah.github.com/"
-    }],
-    "contributors": [{
-        "name": "Aadit M Shah",
-        "email": "aaditmshah@fastmail.fm",
-        "web": "http://aaditmshah.github.com/"
-    }],
-    "bugs": "https://github.com/aaditmshah/stdrepl/issues",
-    "licenses": [{
-        "type": "MIT",
-        "url": "http://opensource.org/licenses/MIT"
-    }],
-    "repositories": [{
-        "type": "git",
-        "url": "https://github.com/aaditmshah/stdrepl.git"
-    }],
-    "homepage": "https://github.com/aaditmshah/stdrepl"
+  "name": "stdrepl",
+  "description": "An standard REPL for node.js to enable programmers to create interactive user interfaces.",
+  "version": "1.0.1",
+  "keywords": [
+    "stdrepl",
+    "standard",
+    "repl",
+    "read",
+    "eval",
+    "print",
+    "loop",
+    "interactive"
+  ],
+  "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
+  "main": "lib/stdrepl.js",
+  "maintainers": [
+    {
+      "name": "Aadit M Shah",
+      "email": "aaditmshah@fastmail.fm",
+      "web": "http://aaditmshah.github.com/"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Aadit M Shah",
+      "email": "aaditmshah@fastmail.fm",
+      "web": "http://aaditmshah.github.com/"
+    }
+  ],
+  "bugs": "https://github.com/aaditmshah/stdrepl/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/aaditmshah/stdrepl.git"
+    }
+  ],
+  "homepage": "https://github.com/aaditmshah/stdrepl",
+  "dependencies": {
+    "wait.for": "^0.6.6"
+  }
 }
